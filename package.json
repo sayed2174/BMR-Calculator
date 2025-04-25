@@ -1,0 +1,15 @@
+{
+  "name": "bmr_app",
+  "version": "1.0.0",
+  "description": "BMR app to check the calory count and maintain diet plan according to it",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "SAYED MOHAMMED",
+  "license": "MIT",
+  "dependencies": {
+    "start": "^5.1.0"
+  },
+  "devDependencies": {}
+}
